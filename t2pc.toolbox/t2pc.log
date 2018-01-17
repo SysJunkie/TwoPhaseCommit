@@ -1,0 +1,255 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.24)  5 DEC 2017 19:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./t2pc.tex
+(./t2pc.tex
+LaTeX2e <2017-04-15>
+Babel <3.14> and hyphenation patterns for 84 language(s) loaded.
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+)) (c:/texlive/2017/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\symlength=\skip43
+\equalswidth=\skip44
+\charwidth=\skip45
+\boxrulewd=\skip46
+\boxlineht=\skip47
+\boxruleht=\skip48
+\boxruledp=\skip49
+\pcalvspace=\skip50
+\lcomindent=\skip51
+\@xlen=\skip52
+\templena=\skip53
+\templenb=\skip54
+\tempboxa=\box26
+\vshadelen=\skip55
+\boxwidth=\skip56
+\multicommentdepth=\skip57
+\c@pardepth=\count87
+\tempsbox=\box27
+\@cparht=\skip58
+\@cpardp=\skip59
+\xmcomlen=\skip60
+\spacewidth=\skip61
+\alignboxwidth=\skip62
+\alignwidth=\skip63
+\alignbox=\box28
+\symtlaitalics=\mathgroup5
+\c@tlx@ctr=\count88
+(c:/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+) (./t2pc.aux)
+\openout1 = `t2pc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen103
+\scratchbox=\box29
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen104
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 942.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 942.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 942.
+(c:/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 948.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 948.
+
+Underfull \hbox (badness 1168) in paragraph at lines 963--966
+[]\OT1/cmr/m/n/8 A mod-i-fied ver-sion of $\OT1/cmr/m/it/8 P\OT1/cmr/m/n/8 2\OT
+1/cmr/m/it/8 TCommit$ \OT1/cmr/m/n/8 at http:$[]\OML/cmm/m/it/8 = =[]\OT1/cmr/m
+/it/8 lamport\OML/cmm/m/it/8 :\OT1/cmr/m/it/8 azurewebsites\OML/cmm/m/it/8 :\OT
+1/cmr/m/it/8 net$\OT1/cmr/m/n/8 /tla/two-$\OT1/cmr/m/it/8 phase\OML/cmm/m/it/8 
+:\OT1/cmr/m/it/8 html$
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 971.
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 971.
+
+Overfull \hbox (100.1698pt too wide) in paragraph at lines 989--997
+[][][][][] 
+ []
+
+
+Overfull \hbox (193.64053pt too wide) in paragraph at lines 997--998
+[][][] 
+ []
+
+
+Overfull \hbox (6.82957pt too wide) in paragraph at lines 998--1006
+[][][][][] 
+ []
+
+
+Overfull \hbox (116.82385pt too wide) in paragraph at lines 1006--1007
+[][][] 
+ []
+
+
+Overfull \hbox (31.4042pt too wide) in paragraph at lines 1044--1051
+[][][][][] 
+ []
+
+[1
+
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (132.27144pt too wide) in paragraph at lines 1054--1055
+[][][] 
+ []
+
+
+Overfull \hbox (113.60481pt too wide) in paragraph at lines 1067--1068
+[][][] 
+ []
+
+[2]
+Overfull \hbox (177.24054pt too wide) in paragraph at lines 1240--1241
+[][] 
+ []
+
+
+Overfull \hbox (107.62386pt too wide) in paragraph at lines 1244--1245
+[][] 
+ []
+
+
+Overfull \hbox (59.01505pt too wide) in paragraph at lines 1272--1273
+[][] 
+ []
+
+[3]
+Overfull \hbox (201.33699pt too wide) in paragraph at lines 1279--1281
+[][] 
+ []
+
+
+Overfull \hbox (35.74837pt too wide) in paragraph at lines 1281--1283
+[][] 
+ []
+
+
+Overfull \hbox (182.67036pt too wide) in paragraph at lines 1285--1287
+[][] 
+ []
+
+
+Overfull \hbox (22.80394pt too wide) in paragraph at lines 1287--1289
+[][] 
+ []
+
+
+Overfull \hbox (22.80394pt too wide) in paragraph at lines 1291--1292
+[][] 
+ []
+
+
+Overfull \hbox (68.01578pt too wide) in paragraph at lines 1294--1295
+[][] 
+ []
+
+[4] [5]
+Overfull \hbox (346.53821pt too wide) in paragraph at lines 1427--1431
+[][] 
+ []
+
+
+Overfull \hbox (318.8171pt too wide) in paragraph at lines 1431--1433
+[][] 
+ []
+
+[6] [7] (./t2pc.aux) ) 
+Here is how much of TeX's memory you used:
+ 1084 strings out of 492990
+ 12712 string characters out of 6136333
+ 85958 words of memory out of 5000000
+ 4675 multiletter control sequences out of 15000+600000
+ 9974 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,10n,27p,215b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
+.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/latxfon
+t/lasy10.pfb>
+Output written on t2pc.pdf (7 pages, 202925 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
